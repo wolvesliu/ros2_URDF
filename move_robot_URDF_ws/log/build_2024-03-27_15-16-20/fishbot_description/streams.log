@@ -1,0 +1,37 @@
+[1.758s] Invoking command in '/home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/src/fishbot_description': PYTHONPATH=/home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/prefix_override:/home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/fishbot_description build --build-base /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/build install --record /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/install.log --single-version-externally-managed install_data
+[2.173s] running egg_info
+[2.175s] creating ../../build/fishbot_description/fishbot_description.egg-info
+[2.175s] writing ../../build/fishbot_description/fishbot_description.egg-info/PKG-INFO
+[2.175s] writing dependency_links to ../../build/fishbot_description/fishbot_description.egg-info/dependency_links.txt
+[2.175s] writing entry points to ../../build/fishbot_description/fishbot_description.egg-info/entry_points.txt
+[2.175s] writing requirements to ../../build/fishbot_description/fishbot_description.egg-info/requires.txt
+[2.175s] writing top-level names to ../../build/fishbot_description/fishbot_description.egg-info/top_level.txt
+[2.175s] writing manifest file '../../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[2.181s] reading manifest file '../../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[2.182s] writing manifest file '../../build/fishbot_description/fishbot_description.egg-info/SOURCES.txt'
+[2.182s] running build
+[2.182s] running build_py
+[2.182s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/build
+[2.183s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/build/lib
+[2.183s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/build/lib/fishbot_description
+[2.183s] copying fishbot_description/__init__.py -> /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/build/lib/fishbot_description
+[2.183s] running install
+[2.184s] running install_lib
+[2.185s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description
+[2.185s] copying /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/build/lib/fishbot_description/__init__.py -> /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description
+[2.191s] byte-compiling /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description/__init__.py to __init__.cpython-310.pyc
+[2.192s] running install_data
+[2.192s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/ament_index
+[2.192s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/ament_index/resource_index
+[2.192s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/ament_index/resource_index/packages
+[2.192s] copying resource/fishbot_description -> /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/ament_index/resource_index/packages
+[2.192s] copying package.xml -> /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/fishbot_description
+[2.192s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/fishbot_description/launch
+[2.192s] copying launch/display_rviz2.launch.py -> /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/fishbot_description/launch
+[2.192s] creating /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/fishbot_description/urdf
+[2.193s] copying urdf/fishbot_base.urdf -> /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/share/fishbot_description/urdf
+[2.193s] running install_egg_info
+[2.196s] Copying ../../build/fishbot_description/fishbot_description.egg-info to /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/lib/python3.10/site-packages/fishbot_description-0.0.0-py3.10.egg-info
+[2.208s] running install_scripts
+[2.280s] writing list of installed files to '/home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/install.log'
+[2.433s] Invoked command in '/home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/src/fishbot_description' returned '0': PYTHONPATH=/home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/prefix_override:/home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/install/fishbot_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/fishbot_description build --build-base /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/build install --record /home/max/ros2fish/fish_ros2_fish/move_robot_URDF_ws/build/fishbot_description/install.log --single-version-externally-managed install_data
